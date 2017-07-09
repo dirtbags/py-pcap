@@ -1,4 +1,6 @@
-== Python pcap file library ==
+---
+title: Python pcap file library
+---
 
 This is a pcap file reader and writer which doesn't need libpcap.  The
 read interface is similar to that of pcapy, but you can do things like
@@ -23,7 +25,7 @@ To use it:
 
 Enjoy.
 
-Version 1.1 is available at
-<http://dirtbags.net/py-pcap/py-pcap-1.1.tar.gz>
+Version 1.0 is available at
+<http://dirtbags.net/g.cgi/py-pcap/snapshot/py-pcap-1.0.zip>
 
-Neale Pickett <neale@dirtbags.net>
+<zephyr@dirtbags.net>
