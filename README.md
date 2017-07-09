@@ -23,9 +23,3 @@ To use it:
     [((0, 0, 3), 'foo'), ((0, 0, 3), 'bar')]
     >>> 
 
-Enjoy.
-
-Version 1.0 is available at
-<http://dirtbags.net/g.cgi/py-pcap/snapshot/py-pcap-1.0.zip>
-
-<zephyr@dirtbags.net>
